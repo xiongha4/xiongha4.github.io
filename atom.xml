@@ -61,9 +61,9 @@
     
     
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
     <category term="python" scheme="http://example.com/tags/python/"/>
     
@@ -87,9 +87,9 @@
     
     
     
-    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
-    
     <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
     <category term="bug" scheme="http://example.com/tags/bug/"/>
     
