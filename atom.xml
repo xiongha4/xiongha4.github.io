@@ -39,9 +39,9 @@
     
     <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
     
-    <category term="更新" scheme="http://example.com/tags/%E6%9B%B4%E6%96%B0/"/>
-    
     <category term="bug" scheme="http://example.com/tags/bug/"/>
+    
+    <category term="更新" scheme="http://example.com/tags/%E6%9B%B4%E6%96%B0/"/>
     
   </entry>
   
