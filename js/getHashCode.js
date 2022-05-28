@@ -1,4 +1,3 @@
-
   function getHashCode(str,caseSensitive){
     if(!caseSensitive){
       str = str.toLowerCase();
