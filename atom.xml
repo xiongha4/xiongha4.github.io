@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-29T08:12:37.413Z</updated>
+  <updated>2022-05-29T08:16:24.034Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/"/>
     <id>http://example.com/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/</id>
     <published>2022-05-29T07:39:55.000Z</published>
-    <updated>2022-05-29T08:12:37.413Z</updated>
+    <updated>2022-05-29T08:16:24.034Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我做了个AI！"><a href="#我做了个AI！" class="headerlink" title="我做了个AI！"></a>我做了个AI！</h1><p>我在家无聊就做了一个聊天AI。<br><img src="/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/%E6%97%A0%E6%95%8C%E6%98%AF%E5%A4%9A%E4%B9%88%E5%AF%82%E5%AF%9E.jpg"><br>（不太想放源码）</p><h1 id="视频效果"><a href="#视频效果" class="headerlink" title="视频效果"></a>视频效果</h1><p><video src="/2022/05/29/我做了个AI！/2022-05-29 15-50-32.mp4" position="absolute" width="100%" height="100%" controls="controls"></video></p><h1 id="下载地址（点击下载）"><a href="#下载地址（点击下载）" class="headerlink" title="下载地址（点击下载）"></a>下载地址（点击下载）</h1><p><a href="https://xiongha4.github.io/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/AI.py">https://xiongha4.github.io/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/AI.py</a></p><ul><li>编程</li><li>python</li><li>日常</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="我做了个AI！"><a href="#我做了个AI！" class="headerlink" title="我做了个AI！"></a>我做了个AI！</h1><p>我在家无聊就做了一个聊天AI。<br><img src="/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/%E6%97%A0%E6%95%8C%E6%98%AF%E5%A4%9A%E4%B9%88%E5%AF%82%E5%AF%9E.jpg"><br>（不太想放源码）</p><h1 id="视频效果"><a href="#视频效果" class="headerlink" title="视频效果"></a>视频效果</h1><p><video src="/2022/05/29/我做了个AI！/2022-05-29 15-50-32.mp4" position="absolute" width="100%" height="100%" controls="controls"></video></p><h1 id="下载地址（点击下载）"><a href="#下载地址（点击下载）" class="headerlink" title="下载地址（点击下载）"></a>下载地址（点击下载）</h1><p><img src="https://xiongha4.github.io/2022/05/29/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AAAI%EF%BC%81/AI.py"></p><ul><li>编程</li><li>python</li><li>日常</li></ul>]]></content>
     
     
       
@@ -36,9 +36,9 @@
     
     <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -144,9 +144,9 @@
     
     <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
