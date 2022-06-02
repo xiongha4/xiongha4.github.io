@@ -34,9 +34,9 @@
     
     
     
-    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
-    
     <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
     <category term="python" scheme="http://example.com/tags/python/"/>
     
@@ -60,11 +60,11 @@
     
     
     
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
     <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
     
     <category term="畅言" scheme="http://example.com/tags/%E7%95%85%E8%A8%80/"/>
-    
-    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
@@ -87,9 +87,9 @@
     
     
     
-    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
-    
     <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
     
     <category term="bug" scheme="http://example.com/tags/bug/"/>
     
@@ -142,9 +142,9 @@
     
     
     
-    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
-    
     <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
     <category term="python" scheme="http://example.com/tags/python/"/>
     
@@ -168,9 +168,9 @@
     
     
     
-    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
-    
     <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
     
     <category term="bug" scheme="http://example.com/tags/bug/"/>
     
